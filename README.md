@@ -1,10 +1,10 @@
-Hola! Call me Pasha ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hola! Call me Pasha 🙋‍♂️
 =============================================================================================================================
 
 Im a Web Developer 💻
 ---------------
 * 🌍  I'm based in Tangerang Selatan, Indonesia
-* ✉️  You can contact me at [thariqteuku.soc@gmail.com](mailto:thariqteuku.soc@gmail.com)
+* ✉️  feel free to contact me at [thariqteuku.soc@gmail.com](mailto:thariqteuku.soc@gmail.com) or my social media account below
 
 <a href="https://www.github.com/pashateuku" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pashateuku?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
