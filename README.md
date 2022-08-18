@@ -1,13 +1,10 @@
-Hola! Call me Pasha 🙋‍♂️
+Hola! I am Pasha 🙋‍♂️
 =============================================================================================================================
 
 Im a Web Developer 💻
 ---------------
 * 🌍  based in Tangerang Selatan, Indonesia
 * ✉️  feel free to contact me at [thariqteuku.soc@gmail.com](mailto:thariqteuku.soc@gmail.com) or my social media account below
-
-<a href="https://www.github.com/pashateuku" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pashateuku?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
