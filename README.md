@@ -1,11 +1,10 @@
 Hola! Call me Pasha 🙋‍♂️
 =============================================================================================================================
 
-Im a Web Developer 💻
----------------
+* 💻  Im a Web Developer
 * 🌍  I'm based in Tangerang Selatan, Indonesia
 * ✉️  feel free to contact me at [thariqteuku.soc@gmail.com](mailto:thariqteuku.soc@gmail.com) or my social media account below
-### Languanges and Tools:
+### Languange and Tool:
 
 <p align="middle">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
