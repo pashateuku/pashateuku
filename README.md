@@ -4,6 +4,7 @@ Hola! Call me Pasha 🙋‍♂️
 * 💻  Im a Web Developer
 * 🌍  I'm based in Tangerang Selatan, Indonesia
 * ✉️  feel free to contact me at [thariqteuku.soc@gmail.com](mailto:thariqteuku.soc@gmail.com) or my social media account below
+
 ### Languange and Tool:
 
 <p align="middle">
@@ -31,9 +32,12 @@ Hola! Call me Pasha 🙋‍♂️
 </a></p>
 
 ### My Stats:
-<center>
+<p align="middle">
 <a href="http://www.github.com/pashateuku" align="middle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pashateuku&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+</p>
+<p align="middle">
 <a href="http://www.github.com/pashateuku" align="middle"><img src="https://github-readme-stats.vercel.app/api?username=pashateuku&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pashateuku's GitHub stats" /></a>
-
+</p>
+<p align="middle">
 <a href="http://www.github.com/pashateuku" align="middle"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pashateuku&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pashateuku's GitHub stats" /></a>
+</p>
